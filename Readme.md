@@ -10,3 +10,4 @@ I am adding a new line here.
 
 /New changes
 /New changes2
+/New changes that are made in the feature branch.
